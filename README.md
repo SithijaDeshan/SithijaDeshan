@@ -74,11 +74,12 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sithijadeshan&layout=compact&theme=dark" alt="Top Languages" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sithijadeshan&show_icons=true&theme=dark" alt="GitHub Stats" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sithijadeshan&layout=compact&theme=dark" alt="Top Languages" width="400" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sithijadeshan&show_icons=true&theme=dark" alt="GitHub Stats" width="400" height="200" />
 </p>
-
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sithijadeshan&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sithijadeshan&theme=dark" alt="GitHub Streak" width="800" />
 </p>
+
+

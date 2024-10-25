@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="[https://linkedin.com/in/sithija-d-kumarasinghe](https://www.linkedin.com/in/sithija-d-kumarasinghe-3b3723219/)" target="blank">
+  <a href="https://linkedin.com/in/sithija-d-kumarasinghe-3b3723219/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sithija d. kumarasinghe" height="30" width="40" />
   </a>
   <a href="https://fb.com/sithija-d-kumarasinghe" target="blank">
